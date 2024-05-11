@@ -14,7 +14,7 @@ This project utilizes computer vision techniques to control system volume based 
 
 1. Run the `main.py` script:
    - ```bash
-     aain.py
+     main.py
      ```
 
 2. Ensure your webcam is connected and positioned properly.
