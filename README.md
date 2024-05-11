@@ -12,15 +12,18 @@ This project utilizes computer vision techniques to control system volume based 
 
 ## Usage
 
-- Run the main.py script:
+1. Run the `main.py` script:
+   - ```bash
+     aain.py
+     ```
 
-- Ensure your webcam is connected and positioned properly.
+2. Ensure your webcam is connected and positioned properly.
 
-- When the application starts, it will display the webcam feed with hand landmarks drawn on the screen.
+3. When the application starts, it will display the webcam feed with hand landmarks drawn on the screen.
 
-- To adjust the volume:
+4. To adjust the volume:
+   - Extend your thumb and index finger apart.
+   - Move them closer together to decrease the volume.
+   - Move them farther apart to increase the volume.
 
-    -Extend your thumb and index finger apart.
-    -Move them closer together to decrease the volume.
-    -Move them farther apart to increase the volume.
-    -Press 'x' on your keyboard to exit the application.
+5. Press 'x' on your keyboard to exit the application.
